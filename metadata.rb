@@ -1,0 +1,7 @@
+name             'lxd_polipo'
+maintainer       'Braden Wright'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures lxd_polipo'
+long_description 'Installs/Configures lxd_polipo'
+version          '0.1.0'
